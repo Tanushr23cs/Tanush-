@@ -1,14 +1,3 @@
-Here is the fully fixed and formatted code for your GitHub Profile `README.md`.
-
-### **What was fixed:**
-
-* **Broken Java Code Block:** You were missing the closing backticks (`````) for your Java code snippet inside the "About Me" table. This caused the rest of your README to render as Java code.
-* **Invisible Spacing Characters:** Cleaned up some irregular spacing characters (non-breaking spaces) in the Java code that can cause formatting issues or compilation errors if copied.
-* **HTML Table Spacing:** Added the necessary blank lines before and after the Markdown code block inside the HTML `<td>` tags. GitHub requires these blank lines to render Markdown properly inside raw HTML.
-
-Copy the code below and paste it directly into your `README.md` file:
-
-```markdown
 <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20&text=TANUSH%20R&fontAlign=50&fontAlignY=38&fontSize=70&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20](https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20&text=TANUSH%20R&fontAlign=50&fontAlignY=38&fontSize=70&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20)|%20DevOps%20Engineer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
 
 <div align="center">
