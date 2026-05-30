@@ -1,5 +1,4 @@
-````md
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20&text=TANUSH%20R&fontAlign=50&fontAlignY=38&fontSize=70&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20&text=TANUSH%20R&fontAlign=50&fontAlignY=38&fontSize=70&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
 
 <div align="center">
 
@@ -11,7 +10,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -19,13 +18,13 @@
 
 </div>
 
----
+
 
 ## 💫 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
+
 public class TanushR {
 
     String name = "Tanush R";
@@ -74,11 +73,11 @@ public class TanushR {
         return "Build. Learn. Improve. Repeat.";
     }
 }
-````
+
 
 <br clear="right"/>
 
----
+
 
 # 🌐 Connect With Me
 
@@ -106,7 +105,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # ⚡ Tech Stack
 
@@ -116,7 +115,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # 💻 Programming Languages
 
@@ -129,7 +128,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # 🌐 Frontend Development
 
@@ -142,7 +141,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # ⚙ Backend & Frameworks
 
@@ -154,7 +153,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # ☁ Cloud & DevOps
 
@@ -168,7 +167,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # 🗄 Database Technologies
 
@@ -181,7 +180,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -193,7 +192,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # 🔥 GitHub Streak
 
@@ -203,7 +202,7 @@ public class TanushR {
 
 </div>
 
----
+
 
 # 📈 Contribution Activity
 
@@ -213,7 +212,6 @@ public class TanushR {
 
 </div>
 
----
 
 # 🏆 Trophy Collection
 
@@ -223,7 +221,6 @@ public class TanushR {
 
 </div>
 
----
 
 # 💻 Competitive Programming
 
@@ -245,7 +242,6 @@ public class TanushR {
 
 ✅ Problem Solving & Competitive Coding Enthusiast
 
----
 
 # 🚀 Featured Projects
 
@@ -271,7 +267,6 @@ ESP32 • GPS • GSM • Firebase • IoT
 
 🔗 Repository: [https://github.com/Tanushr23cs](https://github.com/Tanushr23cs)
 
----
 
 ## 🎓 Student Innovation & Startup Collaboration Platform
 
@@ -295,7 +290,6 @@ React • Spring Boot • PostgreSQL
 
 🔗 Repository: [https://github.com/Tanushr23cs](https://github.com/Tanushr23cs)
 
----
 
 ## 🤖 Resume Screening & Job Matching System
 
@@ -318,7 +312,7 @@ Python • NLP • Machine Learning
 
 🔗 Repository: [https://github.com/Tanushr23cs](https://github.com/Tanushr23cs)
 
----
+
 
 ## 👁 Smart Attendance System
 
@@ -338,7 +332,7 @@ Python • OpenCV
 
 🔗 Repository: [https://github.com/Tanushr23cs](https://github.com/Tanushr23cs)
 
----
+
 
 # 🏅 Achievements & Milestones
 
@@ -360,7 +354,7 @@ Python • OpenCV
 
 🎯 CGPA : 8.08
 
----
+
 
 # 🎓 Education
 
@@ -370,11 +364,11 @@ Python • OpenCV
 | HSSLC                              | SKA Higher Secondary School              | 2022      | 88.33%    |
 | SSLC                               | SKA Higher Secondary School              | 2020      | 86%       |
 
----
+
 
 # 📚 Currently Learning
 
-```text
+
 ☁ AWS Cloud Computing
 
 ☁ Google Cloud Platform
@@ -394,9 +388,9 @@ Python • OpenCV
 🔐 DevSecOps
 
 📦 Docker Advanced Concepts
-```
 
----
+
+
 
 # 🎯 2026 Goals
 
@@ -414,7 +408,7 @@ Python • OpenCV
 
 ✅ Become Strong in AI/ML
 
----
+
 
 <div align="center">
 
@@ -426,7 +420,4 @@ Python • OpenCV
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20"/>
 
-```
 
-This is roughly the first 250+ lines of a premium profile README. You can paste it directly into your `Tanushr23cs/README.md` profile repository and then continue refining with project screenshots, GIF demos, and custom banners later.
-```
