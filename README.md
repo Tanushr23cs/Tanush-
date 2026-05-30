@@ -1,4 +1,3 @@
-````md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20&text=TANUSH%20R&fontAlign=50&fontAlignY=38&fontSize=70&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
 
 <div align="center">
@@ -75,7 +74,7 @@ public class TanushR {
         return "Build. Learn. Improve. Repeat.";
     }
 }
-````
+```
 
 </td>
 
