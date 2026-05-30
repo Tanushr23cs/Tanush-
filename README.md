@@ -1,3 +1,4 @@
+````md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20&text=TANUSH%20R&fontAlign=50&fontAlignY=38&fontSize=70&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=twinkling"/>
 
 <div align="center">
@@ -24,68 +25,55 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="60%">
-
 ```java
 public class TanushR {
 
-    private final String role =
-        "Java Full Stack Developer | DevOps Engineer";
+    String name = "Tanush R";
 
-    private final String location =
+    String role =
+        "Java Full Stack Developer";
+
+    String location =
         "Theni, Tamil Nadu, India";
 
-    private final String education =
-        "B.E CSE @ PSNA College of Engineering & Technology";
+    String college =
+        "PSNA College of Engineering & Technology";
 
-    private final double cgpa = 8.08;
+    double cgpa = 8.08;
 
-    private final String[] achievements = {
-        "250+ DSA Problems Solved",
+    String[] techStack = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Firebase"
+    };
+
+    String[] achievements = {
+        "250+ DSA Problems",
         "SIH Participant x2",
-        "Synapse ML Hackathon Finalist",
-        "DevOps Intern",
+        "Synapse ML Finalist",
+        "DevOps Internship",
         "TCS NQT 74.58%"
     };
 
-    private final String[] interests = {
+    String[] learning = {
         "System Design",
         "Cloud Computing",
-        "DevOps",
-        "AI/ML",
+        "Advanced DevOps",
+        "Machine Learning",
         "Microservices"
     };
 
-    public String motto() {
-        return "Build • Learn • Improve • Repeat";
+    String motto() {
+        return "Build. Learn. Improve. Repeat.";
     }
 }
-```
-
-</td>
-
-<td width="40%" align="center">
-
-<img width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-</td>
-</tr>
-</table>
-
-### 💡 Quick Facts
-
-* 🎓 B.E Computer Science & Engineering (CGPA: 8.08)
-* 💻 Solved 250+ DSA Problems
-* 🏆 Smart India Hackathon Participant (2 Times)
-* 🥈 Selected at Intra College Level
-* 🤖 Synapse ML Hackathon Finalist
-* ⚙️ DevOps Internship Experience
-* 🌱 Currently learning Cloud, AI/ML & System Design
-
 ````
 
 <br clear="right"/>
@@ -194,11 +182,18 @@ public class TanushR {
 </div>
 
 ---
-📊 GitHub Analytics
-🔥 GitHub Streak
-📈 Contribution Graph
-🏆 Trophy Collection
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanushr23cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushr23cs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 # 🔥 GitHub Streak
 
