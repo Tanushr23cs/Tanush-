@@ -24,55 +24,68 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
+
 ```java
 public class TanushR {
 
-    String name = "Tanush R";
+    private final String role =
+        "Java Full Stack Developer | DevOps Engineer";
 
-    String role =
-        "Java Full Stack Developer";
-
-    String location =
+    private final String location =
         "Theni, Tamil Nadu, India";
 
-    String college =
-        "PSNA College of Engineering & Technology";
+    private final String education =
+        "B.E CSE @ PSNA College of Engineering & Technology";
 
-    double cgpa = 8.08;
+    private final double cgpa = 8.08;
 
-    String[] techStack = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "Docker",
-        "Kubernetes",
-        "Jenkins",
-        "MySQL",
-        "MongoDB",
-        "PostgreSQL",
-        "Firebase"
-    };
-
-    String[] achievements = {
-        "250+ DSA Problems",
+    private final String[] achievements = {
+        "250+ DSA Problems Solved",
         "SIH Participant x2",
-        "Synapse ML Finalist",
-        "DevOps Internship",
+        "Synapse ML Hackathon Finalist",
+        "DevOps Intern",
         "TCS NQT 74.58%"
     };
 
-    String[] learning = {
+    private final String[] interests = {
         "System Design",
         "Cloud Computing",
-        "Advanced DevOps",
-        "Machine Learning",
+        "DevOps",
+        "AI/ML",
         "Microservices"
     };
 
-    String motto() {
-        return "Build. Learn. Improve. Repeat.";
+    public String motto() {
+        return "Build • Learn • Improve • Repeat";
     }
 }
+```
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+</td>
+</tr>
+</table>
+
+### 💡 Quick Facts
+
+* 🎓 B.E Computer Science & Engineering (CGPA: 8.08)
+* 💻 Solved 250+ DSA Problems
+* 🏆 Smart India Hackathon Participant (2 Times)
+* 🥈 Selected at Intra College Level
+* 🤖 Synapse ML Hackathon Finalist
+* ⚙️ DevOps Internship Experience
+* 🌱 Currently learning Cloud, AI/ML & System Design
+
 ````
 
 <br clear="right"/>
@@ -181,18 +194,11 @@ public class TanushR {
 </div>
 
 ---
+📊 GitHub Analytics
+🔥 GitHub Streak
+📈 Contribution Graph
+🏆 Trophy Collection
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanushr23cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushr23cs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
